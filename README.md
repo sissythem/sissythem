@@ -13,15 +13,14 @@ Staff Software Engineer based in Athens, Greece with over 10 years of experience
 
 Tech lead at a fintech (KYC and B2B data), researcher at NCSR Demokritos on e-science platforms and argument mining, and engineer on voice bots and Java backends.
 
-**Writing and publications**
-
-- ✍️ I write about workflow orchestration and coding agents at [themeli.me](https://themeli.me) ([RSS](https://themeli.me/rss.xml))
-- 📄 [A study of text representations for Hate Speech Detection](https://link.springer.com/chapter/10.1007/978-3-031-24340-0_32), Springer, 2023. Code in [hate-speech-detection](https://github.com/sissythem/hate-speech-detection)
-- 📄 [DARE platform: workflows-as-a-service for e-science on the cloud](https://joss.theoj.org/papers/10.21105/joss.02664.pdf), JOSS, 2020
-
 **Stack I reach for**
 
 Python · Go · Temporal · Kubernetes · AWS · PostgreSQL · ClickHouse · RabbitMQ · OpenTelemetry · Grafana · Claude Code and the Agent SDK
+
+**Writing and publications**
+
+- 📄 [A study of text representations for Hate Speech Detection](https://link.springer.com/chapter/10.1007/978-3-031-24340-0_32), Springer, 2023. Code in [hate-speech-detection](https://github.com/sissythem/hate-speech-detection)
+- 📄 [DARE platform: workflows-as-a-service for e-science on the cloud](https://joss.theoj.org/papers/10.21105/joss.02664.pdf), JOSS, 2020
 
 **Elsewhere**
 
