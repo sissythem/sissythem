@@ -24,7 +24,7 @@ Python · Go · Temporal · Kubernetes · AWS · PostgreSQL · ClickHouse · Rab
 
 **Elsewhere**
 
-[themeli.me](https://themeli.me) · [LinkedIn](https://www.linkedin.com/in/sthemeli/) · [Google Scholar](https://scholar.google.com/citations?user=Z617qUsAAAAJ) · Pronouns: she/her
+[sissy.themeli.me](https://sissy.themeli.me) · [LinkedIn](https://www.linkedin.com/in/sthemeli/) · [Google Scholar](https://scholar.google.com/citations?user=Z617qUsAAAAJ) · Pronouns: she/her
 
 **Outside work**
 
